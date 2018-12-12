@@ -1,1 +1,3 @@
 Based on http://www.solaredge.com/files/pdfs/se_monitoring_api.pdf
+
+This forked gem will temporarily be used when we upgrade to Rails 5. A more permanent solution will be to use our in-house inverter service to serve our solar data needs.
